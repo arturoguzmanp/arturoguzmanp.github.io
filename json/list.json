@@ -1,0 +1,109 @@
+{
+    "works": [
+ 
+       {
+          "id": "1",
+          "title": "work title",
+          "artist": "artist's name",
+          "image": "./assets/logo.png",
+          "video": "",
+          "audio": "",
+          "website": "https://www.startpage.com",
+          "instagram": "https://www.instagram.com",
+          "facebook": "https://www.facebook.com",
+          "twitter": "https://www.twitter.com",
+          "youtube": "https://www.youtube.com",
+          "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+       },
+ 
+       {
+        "id": "2",
+        "title": "work title 2",
+        "artist": "artist's name 2",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     },
+       
+     {
+        "id": "3",
+        "title": "work title 3",
+        "artist": "artist's name 3",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     },
+
+     {
+        "id": "4",
+        "title": "work title 4",
+        "artist": "artist's name 4",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     },
+
+     {
+        "id": "5",
+        "title": "work title 5",
+        "artist": "artist's name 5",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     },
+ 
+     {
+        "id": "6",
+        "title": "work title 6",
+        "artist": "artist's name 6",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     },
+
+     {
+        "id": "7",
+        "title": "work title 7",
+        "artist": "artist's name 7",
+        "image": "./assets/logo.png",
+        "video": "",
+        "audio": "",
+        "website": "https://www.startpage.com",
+        "instagram": "https://www.instagram.com",
+        "facebook": "https://www.facebook.com",
+        "twitter": "https://www.twitter.com",
+        "youtube": "https://www.youtube.com",
+        "bio": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore recusandae accusamus quaerat aspernatur eum reprehenderit pariatur enim repellendus, libero, dolorum, commodi assumenda nostrum magni porro optio minus eligendi sit eos dolorem accusantium aperiam alias? Suscipit necessitatibus similique amet molestias cumque praesentium totam labore quidem eaque distinctio sequi corrupti commodi ipsam aliquam doloribus, molestiae ut, voluptates deleniti eius, dolor et esse! Odit qui dolorum nostrum tempore voluptas porro architecto expedita magni. Vitae, minima ipsa quo corrupti, fugit rem consequatur voluptates quae, eum ratione tempora asperiores. Eaque voluptas perspiciatis asperiores, temporibus sit culpa iure! Nisi excepturi distinctio ullam repellat, officia reiciendis id?"
+     }
+    ]
+ }
