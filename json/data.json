@@ -18,9 +18,9 @@
 
     {
       "id": "2",
-      "title": "the tv",
+      "title": "not yet",
       "artist": "Ariane Kupferman-Sutthavong",
-      "image": "https://arturoguzmanp.github.io/img/2.png",
+      "image": "",
       "video": "",
       "audio": "",
       "website": "https://www.startpage.com",
@@ -66,9 +66,9 @@
 
     {
       "id": "5",
-      "title": "the chair",
+      "title": "not yet",
       "artist": "Isabella Baker",
-      "image": "https://arturoguzmanp.github.io/img/5.png",
+      "image": "",
       "video": "",
       "audio": "",
       "website": "https://www.instagram.com/isabellabaker/",
@@ -82,9 +82,9 @@
 
     {
       "id": "6",
-      "title": "Erratic Encounters",
+      "title": "not yet",
       "artist": "Malachy Harvey",
-      "image": "https://arturoguzmanp.github.io/img/6.png",
+      "image": "",
       "video": "",
       "audio": "",
       "website": "https://malachyharvey.com/",
@@ -98,7 +98,7 @@
 
     {
       "id": "7",
-      "title": "the laptop",
+      "title": "Erratic Encounters ",
       "artist": "Monika Tobel",
       "image": "https://arturoguzmanp.github.io/img/erratic_encounters_tobel_mini.jpg",
       "video": "",
